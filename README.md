@@ -1,16 +1,16 @@
-### Hi there 👋
+```
+                                                               (@@@@)
+ ___________________                                        (    )                      
+< Cattle, not pets. >                                 (@@@)
+ -------------------
+                                                    ++      +------ ____                 ____________________                          
+        \   ^__^                                    ||      |+-+ |  |   \@@@@@@@@@@@     |  ___ ___ ___ ___ |
+         \  (oo)\_______                          /---------|| | |  |    \@@@@@@@@@@@@@_ |  |_| |_| |_| |_| | 
+            (__)\       )\/\                     + ========  +-+ |  |                  | |__________________|   
+                ||----w |                       _|--/~\------/~\-+  |__________________| |__________________| 
+                ||     ||                      //// \_O========O       (O)       (O)        (O)        (O)    
 
-<!--
-**acaracappa/acaracappa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   
+```
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
